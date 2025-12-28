@@ -1,4 +1,4 @@
-# Notebooks
+# EGNN Notebook
 
 This folder contains exploratory notebooks created as part of a
 learning-focused reimplementation of a MatTen-style SO(3)-equivariant
